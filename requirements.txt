@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+torch
+huggingface_hub
+duckduckgo-search
+pydantic
